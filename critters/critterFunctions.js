@@ -1,7 +1,7 @@
 function getCritterIndex(array, critter) {
 
     /*
-    We have access to the agent through the reference we of the object in the quad tree. But manipulating that
+    We have access to the agent through the reference of the object in the quad tree. But manipulating that
     data doesn't do anything to the actual cells we are rendering. This function just grabs the index of the
     cells we need to manipulate when needed.
      */

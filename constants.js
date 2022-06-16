@@ -42,7 +42,7 @@ let freq = 0;
 function worldMod() {
 
     /*
-    Experimenting here. Putting the birth probability for the virus on a sine wave to mimic how a viruses prevalence
+    Experimenting here. Putting the birth probability for the virus on a sine wave to mimic how a virus prevalence is
     seasonally.
      */
 
